@@ -1,0 +1,8 @@
+{
+  "domain_id": "dom_001",
+  "website_id": "site_001",
+  "domain": "cashierlogic.com",
+  "ssl_status": "issued",
+  "connected_by": "brand_admin",
+  "env": "production"
+}cd ..
